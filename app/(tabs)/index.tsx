@@ -15,6 +15,7 @@ export default function HomeScreen() {
           style={styles.reactLogo}
         />
       }
+      id="index-view"
     >
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title" id="title-text">
